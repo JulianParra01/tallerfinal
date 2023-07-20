@@ -1,0 +1,51 @@
+*{
+    margin: 0px;
+   
+}
+nav{
+background-color: #08c6ab ;
+height: 3rem;
+color: white;
+}
+nav h1 {
+    
+    
+    position: absolute;
+    left: 20%;
+}
+nav h3 {
+    float: right;
+    position: absolute;
+    right: 20%;
+}
+.row{
+    background-color:#37465b;
+    color:white;
+    align-items: center;
+    display: grid;
+    justify-content: center;
+    
+}
+.col{
+    padding: 10px;
+
+}
+.list  {
+    background-color: #212b38;
+    
+    margin: 0px 15px;
+    border-radius:10px ;
+    text-align: center;
+    color: #08c6ab;
+}
+.list.ul.li{
+     background-color: #ff9100;
+     text-decoration:  none;
+}
+
+.loginpage{
+    text-align: center;
+    background-color: #212b38;
+    color: white;
+    padding: 20px;
+}
